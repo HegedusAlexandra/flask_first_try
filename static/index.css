@@ -1,4 +1,11 @@
+:root {
+    --background-color: #e0e5eb;
+    --primary-color: #007bff; /* Example: blue */
+    --secondary-color: #6c757d; /* Example: gray */
+    --accent-color: #ffc107; /* Example: yellow */
+}
+
 body{
-    background-color: blanchedalmond;
-    color: darkgrey;
+    background-color: var(--background-color);
+    color: var(--secondary-color);
 }
