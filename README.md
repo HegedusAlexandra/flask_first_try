@@ -22,3 +22,5 @@ flask --app hotel run
 
 ### switch on debug
 flask --app hotel run --debug
+
+https://testdriven.io/blog/flask-sessions/
