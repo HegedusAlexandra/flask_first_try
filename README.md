@@ -23,4 +23,7 @@ flask --app hotel run
 ### switch on debug
 flask --app hotel run --debug
 
+### install dependencies
+pip install flask_wtf
+
 https://testdriven.io/blog/flask-sessions/
